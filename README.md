@@ -7,7 +7,6 @@
 
 
 
-
 【Js】
 透過Function與Ajax的配合，讓值可以丟入select內
 
