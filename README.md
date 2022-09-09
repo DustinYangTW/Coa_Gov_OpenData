@@ -1,5 +1,10 @@
+製作這個前端，主要是為了方便整合農委會的資料，讓想要去休閒園區完的人，可以快速搜尋要去哪裡玩!!!!
+
+
 【透過Ajax抓取農委會的公開資料】
 ![image](https://user-images.githubusercontent.com/106080221/189336033-095d54d9-12a9-441d-baa6-df1e53fc56d7.png)
+
+
 
 
 
@@ -10,10 +15,14 @@
 
 
 
+
+
 【選擇縣市】
 選擇指定的縣市，可以透過API來篩選符合條件的資料
 
 ![image](https://user-images.githubusercontent.com/106080221/189336694-327c8c4d-16c3-4d01-832d-54bc09ebe66a.png)
+
+
 
 
 
