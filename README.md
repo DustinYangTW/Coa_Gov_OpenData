@@ -11,7 +11,7 @@
 
 
 ## 【Js】
-</br>
+
 ### 透過Function與Ajax的配合，讓值可以丟入select內</br>
 
 ![image](https://user-images.githubusercontent.com/106080221/189336480-cf4cff57-1c70-4d01-b005-3d0351208dfa.png)
@@ -20,7 +20,7 @@
 
 
 
-##【選擇縣市】</br>
+## 【選擇縣市】</br>
 ### 選擇指定的縣市，可以透過API來篩選符合條件的資料
 
 ![image](https://user-images.githubusercontent.com/106080221/189336694-327c8c4d-16c3-4d01-832d-54bc09ebe66a.png)
